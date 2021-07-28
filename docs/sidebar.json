@@ -1,6 +1,7 @@
 {
   "hl_stargaze": {
     "Overview": "/",
-    "Autoencoders": "core.html"
+    "Autoencoders": "core.html",
+    "Title": "(Paula)TrainAE.html"
   }
 }
