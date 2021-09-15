@@ -1,7 +1,7 @@
 # Stargaze project
 > Anomaly detection of AGNs.
 
-The goal is to do a systematic evaluation of AD models using time series data for our work.
+The goal is to do a systematic evaluation of AD models using time series data for our work. (This README correspond to hl_astro)
 
 ## Implementations
 **Model1**
