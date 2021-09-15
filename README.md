@@ -1,8 +1,22 @@
 # Stargaze project
 > Anomaly detection of AGNs.
 
+The goal is to do a systematic evaluation of AD models using time series data for our work.
 
-This repo contains several techniques to detect anomalies on AGN curves.
+## Implementations
+**Model1**
+
+Main results
+
+**Model2**
+
+Main results
+
+...
+
+**ModelN*+
+
+Main results
 
 ## Install
 
